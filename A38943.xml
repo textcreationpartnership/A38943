@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact relation of a famous battell fought on Munday last, the tenth of October, 1642 between the Dragooners sent out by the L. Generall under the conduct of Colonell Browne, and Sir William Russell and his cavaliers also a perfect description of the pitcht camp of His Excellency the Earle of Essex, now neer Shrewsbury.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38943</idno>
+            <idno type="STC">Wing E3673</idno>
+            <idno type="STC">ESTC R21470</idno>
+            <idno type="EEBO-CITATION">12121234</idno>
+            <idno type="OCLC">ocm 12121234</idno>
+            <idno type="VID">54431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 66:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact relation of a famous battell fought on Munday last, the tenth of October, 1642 between the Dragooners sent out by the L. Generall under the conduct of Colonell Browne, and Sir William Russell and his cavaliers also a perfect description of the pitcht camp of His Excellency the Earle of Essex, now neer Shrewsbury.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Tompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 15, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>Browne, Jo.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54431:1"/>
+            <pb facs="tcp:54431:1"/>
+            <p>AN EXACT RELATION <hi>OF</hi> A famous Battell fought on Munday laſt the tenth of October, 1642.</p>
+            <p>
+               <hi>BETWEEN</hi> The Dragooners ſent out by the L. Generall under the Conduct of Colonell <hi>Browne,</hi> and Sir <hi>William Ruſſell</hi> and his Cavaliers.</p>
+            <p>
+               <hi>ALSO</hi> A perfect deſcription of the pitcht Camp of His Excellency the Earle of ESSEX now neer <hi>Shrewsbury.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Th. Tompſon.</hi> October 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54431:2"/>
+            <pb n="1" facs="tcp:54431:2"/>
+            <head>AN EXACT RELATION of a famous battell fought on Munday the tenth of October, 1642. between the Dra<g ref="char:EOLhyphen"/>gooneers of Colonell <hi>Brown,</hi> and Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Ruſſell</hi> and his Cavaliers.</head>
+            <head type="sub">Alſo an exact deſcription of the pitcht Camp of his Excellency the Earle of <hi>Eſſex</hi> neer Shrewsbury.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Munday laſt being the ninth day of October, his Excellency the Earle of Eſſex having pitcht with his forces before Shrews<g ref="char:EOLhyphen"/>bury, he commanded Colonell Brown, Captaine Bracham and Captaine Moore with about ſix hundred Dragooners to ſcout up and down for three or foure miles compaſſe, to ſee if they could de<g ref="char:EOLhyphen"/>ſcry and of the adverſe Forces to draw neer, and alſo to ſtop the recourſe and ca<g ref="char:EOLhyphen"/>riage of armes and ammunition (if any ſhould be) which according to his Ex<g ref="char:EOLhyphen"/>cellencies
+<pb n="2" facs="tcp:54431:3"/>command was in every re<g ref="char:EOLhyphen"/>ſpect performed, and the ſaid Colonell Browne with the other Officers and his 600. Dragooners marched forth, and in their march towards evening they recei<g ref="char:EOLhyphen"/>ved information that Sir William Ruſſel an arch enemy to the State, was march<g ref="char:EOLhyphen"/>ing to his Majeſtie with ſix troupes of horſe and ſome foot, and that they had pitcht in a meadow five miles off: the Dragooners tarried till towards morn<g ref="char:EOLhyphen"/>ing before they ſet forward, and then by the guide of that meſſenger marched to<g ref="char:EOLhyphen"/>wards them, and by break of day came within their centries, and ſoone eſpied the maine body of horſe and foot, being no whit diſcouraged, as knowing the juſtneſſe of their cauſe, ſent a meſſenger to know what they were; and Sir Willi<g ref="char:EOLhyphen"/>am Ruſſell in a reviling way bid him tell his prick-card round-headed mule-bea<g ref="char:EOLhyphen"/>ring citizens, that he would new baptize them, willing them to depart as unſeen. Our men replied, they would dip them in a new font, never to have reſurrecti<g ref="char:EOLhyphen"/>on.
+<pb n="3" facs="tcp:54431:3"/>Whereupon a charge was beaten on both ſides, and with much courage pro<g ref="char:EOLhyphen"/>ſecuted on both ſides, untill after two houres fight our men put the Cavaliers to flight, killing fifty of them, and taking ſome of them in the purſuit vvith little loſſe on our ſide, except ſome few hurt by their powder bags blowing up. Our ſouldiers purſued them as faſt as they could, but becauſe of their horſes march<g ref="char:EOLhyphen"/>ing moſt part of the night, and not well fed, they vvere conſtrained to forbeare the purſuit, giving God the glory, and ſinging Pſalms of thankſgiving. So they marched vvith triumph and joy tovvard his Excellency, vvhere they found his ſouldiers in a faire battalia, having plan<g ref="char:EOLhyphen"/>ted his Ordnance with much diſcretion, and raiſed bulvvarks, rampiers, and di<g ref="char:EOLhyphen"/>vers other meet and neceſſary vvorks for the ſafeguard and defence of himſelf and his Forces, in the beſt and ſecureſt vvay he could deviſe, placing Centries and Courts of Guard moſt effectually, and like a noble and expert ſouldier.</p>
+            <pb n="4" facs="tcp:54431:4"/>
+            <p> From Bridgnorth there is informati<g ref="char:EOLhyphen"/>on by divers letters, that the Lord Wil<g ref="char:EOLhyphen"/>lough by of Parham hath joyned his Forces with his Excellency the Earle of Eſſex, and are in their march towards Shrewsbury, and by the way they found great oppoſition at Bridgnorth (which is a towne about twelve miles diſtant from Shrewsbury) by Prince Robert and divers others of the malignant Party; whereupon there ſoone increaſed many dangers, and the inveterate malice of the Cavaliers there burſt out, and began to give out many ſcoffing ſpeeches againſt our ſouldiers, but they not brooking of ſuch ſcandalous words, deſired leave of their Officers to diſcharge againſt them; but at the firſt they ſeemed ſomwhat un<g ref="char:EOLhyphen"/>willing, and would not condeſcend thereunto untill they underſtood the pleaſure of the Lord Generall; but after ſome conſultation thereof, they fell to it pell mell, and in the ſpace of five hours ſeventy of the Cavaliers were ſlaine, and divers taken priſoners, with very little
+<pb n="5" facs="tcp:54431:4"/>loſſe on our party: wherupon the ene<g ref="char:EOLhyphen"/>my ſounded a parley, and at the ſaid par<g ref="char:EOLhyphen"/>ley it was concluded on, that a ſet day ſhould be appointed for the meeting of both Armies.</p>
+            <p>Sir William Balfoure is gone to joyne his Forces with the L. Generall, and the Scots Commanders that profered their ſervice to the Parliament, are gone to his Excellency and entred into their places.</p>
+            <p>His Excellency having encamped his Forces neer Shrewsbury, cauſed a Parley to be ſounded before the Towne, where the Malignant Party lies very ſtrongly intrenched: whereunto anſwer was made (as is credibly reported) and divers Queſtions and Propoſitions propoun<g ref="char:EOLhyphen"/>ded in Ais Majeſties behalf, which were to this effect:
+<list>
+                  <item>1. Wherefore his Excellency ſhould ſo farre purſue his Royall Majeſty, as to intrench him in his own Town?</item>
+                  <item>2. Whether he would give his Maje<g ref="char:EOLhyphen"/>ſty leave to march with his Army, for
+<pb n="6" facs="tcp:54431:5"/>that (as they conceived) he had no Com<g ref="char:EOLhyphen"/>miſsion to withſtand him, with many other queſtions of main conſequence.</item>
+               </list>
+            </p>
+            <p>To which anſwer was made, that his Excellency would lay down his life at his Majeſties feet for a re-uniting be<g ref="char:EOLhyphen"/>twixt his Majeſty and his high Court of Parliament, and that he came not with his Forces in an hoſtile way againſt his Majeſty, but in all humility and loyalty, hoping that his Highneſſe would not ſhelter any out-lawed and rebellious perſons, but rather deliver them up to the juſtice of the law, and craving fur<g ref="char:EOLhyphen"/>ther time to determine of his Majeſties free paſſage.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:54431:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
